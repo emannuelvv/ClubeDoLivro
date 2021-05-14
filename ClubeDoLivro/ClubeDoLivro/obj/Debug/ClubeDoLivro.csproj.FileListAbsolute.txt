@@ -1,0 +1,7 @@
+D:\AcademiaProgramador\ClubeDoLivro\ClubeDoLivro\bin\Debug\ClubeDoLivro.exe.config
+D:\AcademiaProgramador\ClubeDoLivro\ClubeDoLivro\bin\Debug\ClubeDoLivro.exe
+D:\AcademiaProgramador\ClubeDoLivro\ClubeDoLivro\bin\Debug\ClubeDoLivro.pdb
+D:\AcademiaProgramador\ClubeDoLivro\ClubeDoLivro\obj\Debug\ClubeDoLivro.csprojAssemblyReference.cache
+D:\AcademiaProgramador\ClubeDoLivro\ClubeDoLivro\obj\Debug\ClubeDoLivro.csproj.CoreCompileInputs.cache
+D:\AcademiaProgramador\ClubeDoLivro\ClubeDoLivro\obj\Debug\ClubeDoLivro.exe
+D:\AcademiaProgramador\ClubeDoLivro\ClubeDoLivro\obj\Debug\ClubeDoLivro.pdb
